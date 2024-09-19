@@ -77,7 +77,7 @@
             <h1>
                 Selamat Datang <br>
                 SISTEM EHS KARYAWAN PT.BEKASI POWER <br>
-                BERBASIS KARTU RFID
+                BERBASIS KARTU RFID (RFID CARD)
             </h1>
             <img src="image/jababeka_logo.jpg" alt="Deskripsi Gambar" style="max-width: 100%; height: auto; margin-top: 20px;">
         </div>
